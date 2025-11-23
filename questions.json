@@ -1,0 +1,4679 @@
+[
+  {
+    "question": "Prevalentemente, la felicità la comunichi usando:",
+    "answers": [
+      "La faccia",
+      "I piedi",
+      "L'orecchio",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il linguaggio del corpo è l'insieme della comunicazione:",
+    "answers": [
+      "Non verbale",
+      "Immediata",
+      "Scritta",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La distanza che tieni da una persona si chiama:",
+    "answers": [
+      "divario",
+      "lontananza",
+      "Prossemica",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il tono di voce (alto o basso) fa parte della comunicazione:",
+    "answers": [
+      "familiare",
+      "amicale",
+      "Paraverbale",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La comunicazione che usa il contatto (toccare) è:",
+    "answers": [
+      "aptica",
+      "toccante",
+      "patologica",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Stare con le braccia incrociate di solito significa:",
+    "answers": [
+      "Chiusura",
+      "Accoglienza",
+      "Disinteresse",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Se guardi l'altra persona negli occhi stai usando il:",
+    "answers": [
+      "Contatto visivo",
+      "Tono di voce",
+      "Gesto",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il modo in cui muovi (il corpo) si chiama:",
+    "answers": [
+      "Ballo",
+      "Cinesica",
+      "Curiosità",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Lo studio dei gesti e dei movimenti del corpo è:",
+    "answers": [
+      "Danza",
+      "Movimento",
+      "Cinesica",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Se una persona parla troppo veloce e non si capisce bene, si parla di:",
+    "answers": [
+      "Ritmo",
+      "Rumore",
+      "Registro",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La mimica facciale serve a far vedere le:",
+    "answers": [
+      "Emozioni",
+      "Rughe",
+      "Distanze",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La zona più vicina, per le persone intime, si chiama distanza:",
+    "answers": [
+      "Verace",
+      "Intima",
+      "Provinciale",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Dire \"sì\" con la testa è un esempio di:",
+    "answers": [
+      "distanza",
+      "pausa",
+      "Gesto",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il tuo modo di vestire comunica il tuo:",
+    "answers": [
+      "Aspetto esteriore",
+      "Volume della voce",
+      "Peso corporeo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La CAA (Comunicazione Aumentativa Alternativa) usa spesso le:",
+    "answers": [
+      "Immagini",
+      "Temperature",
+      "Punti di vista",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Un sussurro è un esempio di variazione del:",
+    "answers": [
+      "Corpo estraneo",
+      "Volume",
+      "Ginnastica facciale",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Se guardi in basso e non guardi gli occhi dell'altro, potresti mostrare:",
+    "answers": [
+      "Disagio",
+      "Gioia",
+      "Allegria",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La postura (come tieni il corpo) può mostrare se sei:",
+    "answers": [
+      "Dominante",
+      "Magro",
+      "Obeso",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Lo spazio per le conversazioni normali tra amici è la distanza:",
+    "answers": [
+      "ultima",
+      "prima",
+      "Personale",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La zona di distanza per le riunioni di lavoro è la distanza:",
+    "answers": [
+      "Propulsiva",
+      "Sociale",
+      "Degenerativa",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I gesti che disegnano quello che stai dicendo si chiamano:",
+    "answers": [
+      "Illustratori",
+      "moderni",
+      "semplici",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il silenzio è considerato un elemento della comunicazione:",
+    "answers": [
+      "Pericolosa",
+      "Paraverbale",
+      "Paradossale",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le espressioni di base come la rabbia e la gioia sono:",
+    "answers": [
+      "Universali",
+      "Oneste",
+      "Eleganti",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I PECS (Picture Exchange Communication System) usano le immagini per aiutare a:",
+    "answers": [
+      "Parlare",
+      "Divorare",
+      "Giocare a calcio",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La Comunicazione Non Verbale (CNV) è fatta soprattutto di:",
+    "answers": [
+      "Frasi fatte",
+      "Canzoni",
+      "Emozioni",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Annuire con il capo (fare \"sì\") indica spesso:",
+    "answers": [
+      "Disaccordo",
+      "Comprensione e accordo",
+      "Distrazione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le posture chiuse (spalle curve) spesso mostrano:",
+    "answers": [
+      "Sottomissione",
+      "Desiderio",
+      "Dislessia",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale elemento non verbale è più legato alla cultura (cambia da Paese a Paese):",
+    "answers": [
+      "Il gesto",
+      "La famiglia",
+      "La scuola",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Se una persona parla in modo molto solenne usa un ritmo:",
+    "answers": [
+      "Lento",
+      "Danzante",
+      "Musicale",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La Prossemica studia la gestione dello:",
+    "answers": [
+      "Spazio",
+      "Studio",
+      "Stile patologico",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il PEI è un documento:",
+    "answers": [
+      "narrativo",
+      "di programmazione educativa",
+      "di sola diagnosi medica",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La base del nuovo PEI è la prospettiva:",
+    "answers": [
+      "Bio-psico-sociale (ICF)",
+      "Esclusivamente medica",
+      "Esclusivamente matematica",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il PEI si redige per alunni con:",
+    "answers": [
+      "Celiachia",
+      "Disabilità certificata",
+      "Disattenzione cronica",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La redazione del PEI è compito:",
+    "answers": [
+      "Solo del Dirigente Scolastico",
+      "Solo dell'insegnante di sostegno",
+      "del GLO (Gruppo di Lavoro Operativo per l'inclusione)",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il PEI deve essere coerente con il:",
+    "answers": [
+      "Direttore sanitario regionale",
+      "Profilo di Funzionamento",
+      "Orario scolastico standard",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un aspetto fondamentale per la progettazione è l'identificazione dei:",
+    "answers": [
+      "Punti di forza dell'alunno",
+      "Solo delle difficoltà",
+      "Solo delle assenze",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nel PEI gli obiettivi sono articolati in:",
+    "answers": [
+      "Solo compiti scritti",
+      "Solo attività ricreative",
+      "Interventi didattici e metodologici",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'elaborazione del PEI si basa su un approccio:",
+    "answers": [
+      "Solo medico",
+      "Solo familiare",
+      "Multidisciplinare",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il PEI provvisorio si redige per gli alunni che:",
+    "answers": [
+      "Non hanno una famiglia collaborativa",
+      "Si iscrivono per la prima volta",
+      "Non possono usare le TIC",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il GLO è composto in primo luogo da:",
+    "answers": [
+      "Solo dal Dirigente Scolastico",
+      "Docenti del Consiglio di Classe o team docente",
+      "Solo dagli specialisti ASL",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Progetto Individuale è redatto dal:",
+    "answers": [
+      "Ente locale in collaborazione con l'ASL e la famiglia",
+      "Solo dal personale sanitario",
+      "Solo dalla famiglia",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il PEI include una sezione dedicata all'osservazione delle:",
+    "answers": [
+      "Solo dell'arredamento scolastico",
+      "Solo del materiale didattico",
+      "Barriere e Facilitatori",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Gli obiettivi del PEI possono essere:",
+    "answers": [
+      "Uguali per tutti gli alunni con disabilità",
+      "Personalizzati",
+      "Riferiti solo all'area delle emozioni primarie",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'ICF classifica:",
+    "answers": [
+      "Solo le malattie",
+      "Il funzionamento dell'individuo",
+      "Solo le abilità motorie e sportive",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per la stesura del PEI è fondamentale la partecipazione:",
+    "answers": [
+      "Solo degli amici dell'alunno",
+      "Solo dei compagni di classe",
+      "della Famiglia",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La Dimensione \"Relazione, Interazione e Socializzazione\" fa riferimento a:",
+    "answers": [
+      "La sfera affettivo-relazionale",
+      "Solo alle competenze di lettura",
+      "Solo alle abilità motorie",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il PEI viene aggiornato di norma:",
+    "answers": [
+      "Ogni anno scolastico",
+      "Ogni 10 anni",
+      "MAI",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il PEI ha valore di:",
+    "answers": [
+      "Semplice appunto per l'insegnante",
+      "Progetto e documento ufficiale",
+      "Nota informativa informale",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Profilo di Funzionamento (PF) è propedeutico alla stesura:",
+    "answers": [
+      "della tesina finale",
+      "del PEI",
+      "della pagella",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il PEI deve garantire il diritto all':",
+    "answers": [
+      "Esclusione dalle attività comuni",
+      "Separazione dagli altri alunni",
+      "Inclusione scolastica",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La valutazione degli alunni con PEI è coerente con:",
+    "answers": [
+      "I soli criteri standard della classe",
+      "Gli obiettivi, i criteri e le modalità del PEI",
+      "Il solo voto di comportamento",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Dimensione \"Autonomia e Orientamento\" include aspetti:",
+    "answers": [
+      "Alimentari",
+      "Solo linguistici",
+      "Motorio-prassici",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Le attività didattiche devono essere programmate anche in relazione ai:",
+    "answers": [
+      "Solo alle barriere",
+      "Facilitatori presenti nel contesto",
+      "Solo alle ore di sostegno",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Gli strumenti compensativi sono previsti per:",
+    "answers": [
+      "Sostituire i banchi",
+      "Favorire l'esecuzione del compito",
+      "Punire",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Profilo di Funzionamento (PF) sostituisce:",
+    "answers": [
+      "Solo il fascicolo personale",
+      "Solo il documento di identità",
+      "La Diagnosi Funzionale e il PDF",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "I genitori partecipano alla redazione del PEI in qualità di:",
+    "answers": [
+      "Consulenti specializzati comunali",
+      "Membri del GLO",
+      "Ascoltatori passivi",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il PEI deve esplicitare il raccordo con il:",
+    "answers": [
+      "Progetto del dirigente scolastico",
+      "Regolamento di Istituto",
+      "Progetto Individuale (se redatto)",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Le Linee Guida per la redazione del PEI sono allegate al:",
+    "answers": [
+      "Contratto collettivo nazionale",
+      "Regolamento edilizio",
+      "Decreto Interministeriale n. 153/2023",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Le strategie didattiche nel PEI devono essere:",
+    "answers": [
+      "Adattate alle esigenze dell'alunno",
+      "Colorate",
+      "Standardizzate a livello comunale",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La prima sezione del PEI riguarda il:",
+    "answers": [
+      "Piano orario settimanale",
+      "Debito di funzionamento",
+      "Piano alimentare",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'obiettivo principale della didattica inclusiva è garantire che tutti gli alunni abbiano successo formativo attraverso:",
+    "answers": [
+      "la valutazione formativa e sommativa per tutti",
+      "L'apprendimento basato sulla lezione frontale",
+      "Le attività standard per tutta la classe",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La sigla BES in ambito scolastico indica:",
+    "answers": [
+      "Bambini Educativi Semplici",
+      "Bisogni Educativi Speciali",
+      "Base Educativa Scolastica",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Piano Didattico Personalizzato (PDP) è un documento redatto per alunni con:",
+    "answers": [
+      "Soltanto disabilità motoria",
+      "Soltanto disturbi alimentari",
+      "Disturbi Specifici dell'Apprendimento (DSA)",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Una buona organizzazione dello spazio in classe può:",
+    "answers": [
+      "Ridurre le fonti di distrazione",
+      "Aumentare il disordine",
+      "Impedire la cooperazione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Lo strumento centrale per l'alunno con disabilità certificata è:",
+    "answers": [
+      "Il Piano Annuale per l'Immigrazione",
+      "Il Piano di Classe Standard",
+      "Il Piano Educativo Individualizzato (PEI)",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La didattica laboratoriale è considerata inclusiva perché promuove:",
+    "answers": [
+      "La competizione tra gli alunni",
+      "L'apprendimento attivo e cooperativo",
+      "La memorizzazione di nozioni teoriche",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un Disturbo Specifico dell'Apprendimento (DSA) riguarda la capacità di:",
+    "answers": [
+      "Soltanto stare in silenzio in classe",
+      "Soltanto stare in silenzio a casa",
+      "Leggere, scrivere o calcolare",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'accoglienza della diversità in classe è un principio di:",
+    "answers": [
+      "Esclusione",
+      "Inclusione",
+      "Neutralità",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'uso di mappe concettuali può aiutare l'alunno a:",
+    "answers": [
+      "Imparare più velocemente degli altri",
+      "Organizzare e visualizzare le informazioni",
+      "Evitare di studiare a casa",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il GLO (Gruppo di Lavoro Operativo) è responsabile della stesura del:",
+    "answers": [
+      "DOP",
+      "PEI",
+      "ICT",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La gestione inclusiva della classe punta a creare un clima di:",
+    "answers": [
+      "Esclusione e isolamento",
+      "Indifferenza e rigidità",
+      "Accoglienza e rispetto reciproco",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Un'attività di cooperative learning (apprendimento cooperativo) richiede:",
+    "answers": [
+      "Interdipendenza positiva tra i membri",
+      "Che uno solo faccia il lavoro",
+      "Che lavori solo il docente",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Gli strumenti compensativi nel PDP sono pensati per:",
+    "answers": [
+      "Sostituirsi allo studente",
+      "Penalizzare l'alunno",
+      "Fornire un aiuto per la sua autonomia",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La personalizzazione del percorso è un principio della didattica inclusiva:",
+    "answers": [
+      "Che si applica solo per la scuola dell'infanzia",
+      "Che tiene conto dei bisogni individuali",
+      "Che esclude la partecipazione della famiglia",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un atteggiamento di ascolto attivo da parte dell'insegnante aiuta a:",
+    "answers": [
+      "Interrompere frequentemente gli alunni emtre si esprimono",
+      "Comprendere meglio le esigenze dell'alunno",
+      "Ignorare i segnali di disagio",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Dislessia è un DSA che si manifesta principalmente come difficoltà di:",
+    "answers": [
+      "Calcolo",
+      "Digitazione",
+      "Lettura fluente e corretta",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Un esempio di misura dispensativa per un alunno con DSA è:",
+    "answers": [
+      "Il divieto assoluto di chiacchierare",
+      "La presenza della mensa scolastica",
+      "Evitare la lettura ad alta voce in classe",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il modello ICF (Classificazione Internazionale del Funzionamento) dell'OMS si concentra su:",
+    "answers": [
+      "Soltanto le malattie",
+      "Funzionamento",
+      "Soltanto la disgrafia",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La coprogettazione tra insegnanti curricolari e di sostegno è essenziale per:",
+    "answers": [
+      "Dividere il lavoro in modo disgiunto",
+      "Condividere responsabilità e strategie",
+      "Assegnare tutto il lavoro al docente di sostegno",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un ambiente di apprendimento inclusivo è:",
+    "answers": [
+      "Statico e rigido",
+      "Flessibile e accogliente",
+      "Orientato solo al risultato",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Disgrafia è un DSA che riguarda la difficoltà nella:",
+    "answers": [
+      "Aspetto grafo-motorio della scrittura (forma)",
+      "Comprensione del testo",
+      "Esecuzione di calcoli complessi",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il tutoraggio tra pari (peer tutoring) è una strategia inclusiva perché promuove:",
+    "answers": [
+      "La dipendenza dall'insegnante",
+      "La collaborazione e l'aiuto reciproco",
+      "L'isolamento degli alunni in difficoltà",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Diagnosi Funzionale (DF) è il documento che precede:",
+    "answers": [
+      "Il GLO",
+      "La PEC",
+      "Il PEI",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il concetto di \"zona di sviluppo prossimale\" (Vygotskij) suggerisce che l'alunno impara meglio con:",
+    "answers": [
+      "Molta pressione e stress",
+      "Un aiuto adeguato e temporaneo",
+      "La mindfulness",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La flessibilità didattica si traduce nel variare:",
+    "answers": [
+      "L'orario scolastico ogni giorno",
+      "Le metodologie di insegnamento",
+      "Il numero di docenti per classe",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Discalculia è un DSA che manifesta difficoltà in:",
+    "answers": [
+      "Manipolazione di numeri e calcolo",
+      "Espressione orale e dibattito",
+      "Capacità motorie complesse",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per la Disortografia (difficoltà a scrivere correttamente) è utile:",
+    "answers": [
+      "Una alimentazione senza glutine",
+      "Il pallone da basket",
+      "Il correttore ortografico del PC",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il ruolo della famiglia nel percorso inclusivo è:",
+    "answers": [
+      "Esclusivamente di supporto logistico",
+      "Essenziale per la condivisione e la collaborazione",
+      "Non previsto dalla normativa",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Piano per l'Inclusione (PI) è redatto da:",
+    "answers": [
+      "Soltanto il Dirigente Scolastico",
+      "Soltanto i genitori",
+      "Il Gruppo di Lavoro per l'Inclusione (GLI)",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La valutazione in un contesto inclusivo dovrebbe essere principalmente:",
+    "answers": [
+      "Un momento di giudizio finale",
+      "Formativa, per monitorare i progressi",
+      "Un giudizio severo e statico",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La valutazione formativa ha come scopo principale:",
+    "answers": [
+      "Valutare i decreti ministeriali",
+      "Regolare il processo di insegnamento-apprendimento",
+      "Giudicare l'insegnante",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il PEI (Piano Educativo Individualizzato) è destinato agli alunni:",
+    "answers": [
+      "Indisciplinati",
+      "Con Disturbi Semplici dell'Appetito",
+      "Con Disabilità certificata",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quale strumento è obbligatorio per gli alunni con Disabilità certificata:",
+    "answers": [
+      "Il Tablet",
+      "La LIM",
+      "Il P.E.I.",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'osservazione sistematica dell'alunno serve a:",
+    "answers": [
+      "Controllare il suo comportamento",
+      "Raccogliere dati oggettivi sul suo funzionamento",
+      "Decidere in autonomia il voto",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il principio di Personalizzazione dei percorsi didattici significa:",
+    "answers": [
+      "Dare compiti uguali per tutti",
+      "Adattare gli obiettivi in base all'alunno",
+      "Assegnare sempre più compiti",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I BES (Bisogni Educativi Speciali) comprendono:",
+    "answers": [
+      "Solo gli alunni con Disabilità",
+      "Solo gli alunni con DSA",
+      "Alunni con difficoltà di vario tipo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Un esempio di strumento compensativo è:",
+    "answers": [
+      "La verifica con meno domande",
+      "L'interrogazione orale più breve",
+      "La calcolatrice per il calcolo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La valutazione di un alunno con PEI deve essere coerente con:",
+    "answers": [
+      "La media della classe",
+      "I soli obiettivi ministeriali",
+      "Gli obiettivi stabiliti nel PEI",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'ICF (Classificazione Internazionale del Funzionamento) valuta:",
+    "answers": [
+      "Solo le malattie",
+      "Il funzionamento della persona in un contesto",
+      "Il QI dell'alunno",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I docenti di classe sono corresponsabili della valutazione degli alunni con disabilità:",
+    "answers": [
+      "No, è compito solo del docente di sostegno",
+      "Sì, sono contitolari della classe",
+      "Solo se l'alunno è maggiorenne",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La dispensa dall'uso del carattere stampato serve ad alunni con:",
+    "answers": [
+      "Discalculia",
+      "Disgrafia o Disortografia",
+      "Disturbi emotivi",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Gruppo di Lavoro Operativo (GLO) ha il compito di:",
+    "answers": [
+      "Sostituire il Dirigente Scolastico",
+      "Redigere e verificare il PEI",
+      "Gestire il bilancio della scuola",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Profilo di Funzionamento è propedeutico alla stesura:",
+    "answers": [
+      "Del P.D.P.",
+      "Del Curricolo d'Istituto",
+      "Del P.E.I.",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La valutazione sommativa serve a:",
+    "answers": [
+      "Correggere gli errori",
+      "Certificare i risultati finali",
+      "Raccogliere feedback in itinere",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Una misura dispensativa nel contesto scolastico permette di:",
+    "answers": [
+      "Usare la calcolatrice",
+      "Non eseguire alcune prestazioni (es. leggere ad alta voce)",
+      "Usare una mappa concettuale",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per gli alunni con DSA (Disturbi Specifici dell'Apprendimento) è previsto:",
+    "answers": [
+      "Il PEI",
+      "nessun documento",
+      "Il PDP (Piano Didattico Personalizzato)",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il documento che descrive il funzionamento dell'alunno secondo l'ICF è:",
+    "answers": [
+      "La Scheda di Inclusione Inversa",
+      "Il Profilo di Funzionamento",
+      "La Flipped Classroom",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La valutazione diagnostico-iniziale avviene:",
+    "answers": [
+      "Alla fine del quadrimestre",
+      "Dopo un'attività sportiva",
+      "All'inizio di un percorso",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "I criteri di valutazione per gli alunni con DSA devono tener conto:",
+    "answers": [
+      "Solo della velocità di esecuzione",
+      "Delle misure dispensative e compensative adottate",
+      "Del voto di condotta",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Verifica nel processo valutativo è l'atto di:",
+    "answers": [
+      "Rimproverare",
+      "Raccogliere dati sulle prestazioni",
+      "Riunirsi in GLO",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'obiettivo della Didattica Inclusiva è:",
+    "answers": [
+      "Creare classi separate",
+      "Garantire il successo formativo per tutti",
+      "Semplificare i percorsi alimentari",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I descrittori in una griglia di valutazione servono a:",
+    "answers": [
+      "Ridurre il voto",
+      "Rendere i compiti estremamente difficili",
+      "Definire in modo chiaro i livelli di prestazione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La Legge 104/92 si riferisce principalmente agli alunni con:",
+    "answers": [
+      "Disturbi Alimentari",
+      "Difficoltà di socializzazione",
+      "Disabilità",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Nel PEI, gli obiettivi educativi devono essere definiti in modo:",
+    "answers": [
+      "Colorato",
+      "Osservabile e misurabile",
+      "Rigido e immutabile",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il feedback nella valutazione formativa deve essere:",
+    "answers": [
+      "Solo punitivo",
+      "Solo sonoro",
+      "Costruttivo e orientato al miglioramento",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'Autonomia negli alunni con disabilità viene valutata:",
+    "answers": [
+      "Solo in base ai risultati scolastici",
+      "In base alla capacità di gestire la vita quotidiana",
+      "Solo dalla famiglia",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Validità di uno strumento di valutazione indica se:",
+    "answers": [
+      "È difficile da usare",
+      "Misura effettivamente ciò che si propone di misurare",
+      "È gradito ai genitori",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quale figura professionale non è prevista come membro del GLO:",
+    "answers": [
+      "Il Dirigente Scolastico",
+      "L'insegnante Curricolare",
+      "Il Ministro dell'Istruzione",
+      "Tutte le precedenti",
+      "La Co-progettazione del percorso inclusivo coinvolge principalmente",
+      "Scuola, Famiglia e Servizi Socio-Sanitari",
+      "Solo il docente di sostegno e l'alunno",
+      "La stampa locale",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 5
+  },
+  {
+    "question": "Lo scopo della valutazione inclusiva è:",
+    "answers": [
+      "Punire gli alunni",
+      "Promuovere il massimo sviluppo potenziale",
+      "Stabilire un voto unico",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il laboratorio didattico privilegia una modalità di apprendimento:",
+    "answers": [
+      "Trasmissiva",
+      "Collaborativa",
+      "Frontale",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'obiettivo principale del laboratorio è sviluppare:",
+    "answers": [
+      "Competenze",
+      "Conoscenze astratte",
+      "Memorizzazione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La metodologia del \"learning by doing\" significa:",
+    "answers": [
+      "Imparare leggendo",
+      "Imparare cantando",
+      "Imparare facendo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'insegnante di sostegno lavora principalmente per l':",
+    "answers": [
+      "Isolamento",
+      "Inclusione",
+      "Esclusione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il PEI è l'acronimo di:",
+    "answers": [
+      "Progetto Esemplificativo Interno",
+      "Piano Educativo Intimo",
+      "Piano Educativo Individualizzato",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Un principio della didattica inclusiva è rappresentato da:",
+    "answers": [
+      "Stabilizzazione",
+      "Omonimia",
+      "Flessibilità",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Un ambiente laboratoriale favorisce:",
+    "answers": [
+      "Il lavoro individuale",
+      "L'interazione tra pari",
+      "La lezione cattedratica",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'osservazione sistematica serve a raccogliere informazioni su:",
+    "answers": [
+      "Solo le carenze",
+      "I comportamenti e i processi",
+      "Le assenze",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'approccio metacognitivo si concentra su:",
+    "answers": [
+      "I contenuti semplici",
+      "Il modo in cui si apprende",
+      "Le valutazioni creative",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nel laboratorio la teoria e la prassi sono:",
+    "answers": [
+      "Separate",
+      "In conflitto",
+      "Connesse e integrate",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il documento fondamentale per l'alunno con disabilità è:",
+    "answers": [
+      "Il Registro di classe",
+      "Il Profilo di Funzionamento",
+      "La pagella",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Cooperative Learning è una strategia che valorizza:",
+    "answers": [
+      "La competizione",
+      "La cooperazione",
+      "L'eleganza formativa",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'adattamento dei materiali didattici promuove:",
+    "answers": [
+      "L'accessibilità",
+      "L'omologazione",
+      "La difficoltà",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La didattica laboratoriale è orientata al:",
+    "answers": [
+      "Saper fare",
+      "Saper ripetere",
+      "Saper conoscere",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per \"zona di sviluppo prossimale\" (Vygotskij) si intende:",
+    "answers": [
+      "Ciò che l'alunno sa già fare in prossimità",
+      "Ciò che l'alunno farà da solo in futuro",
+      "Ciò che può fare con aiuto",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il ruolo del docente nel laboratorio è quello di:",
+    "answers": [
+      "Trasmettitore di saperi",
+      "Giudice",
+      "Facilitatore e guida",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'empatia è la capacità di:",
+    "answers": [
+      "Giudicare l'altro",
+      "Isolare l'altro",
+      "Muoversi nell'altro",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il pensiero divergente è associato a:",
+    "answers": [
+      "Ripetizione",
+      "Conformità",
+      "Creatività",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Lo strumento per la valutazione degli apprendimenti in laboratorio è:",
+    "answers": [
+      "Solo il voto numerico",
+      "Solo la prova scritta",
+      "Il prodotto finale o l'elaborato",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La logica della sperimentazione didattica si basa su:",
+    "answers": [
+      "Certezze",
+      "Ipotesi e verifica",
+      "Tradizioni",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Didattica per Competenze mette al centro:",
+    "answers": [
+      "L'uso dei saperi in contesto",
+      "L'accumulo di nozioni",
+      "La memorizzazione di date",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale tipo di feedback è più efficace in un contesto inclusivo:",
+    "answers": [
+      "Solo correttivo",
+      "Descrittivo e incoraggiante",
+      "Solo valutativo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il concetto di Barriera si riferisce a:",
+    "answers": [
+      "Un muro",
+      "solo ostacoli uditivi",
+      "Un ostacolo comunicativo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La simulazione in laboratorio è utile per:",
+    "answers": [
+      "Evitare l'azione",
+      "Avvicinarsi alla realtà professionale",
+      "Imparare a correre",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La didattica inclusiva mira a eliminare le:",
+    "answers": [
+      "Barriere all'apprendimento",
+      "Le diversità",
+      "I libri di testo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'utilizzo di mediatori didattici concreti è fondamentale per l'alunno con:",
+    "answers": [
+      "Altissime abilità",
+      "Difficoltà di astrazione",
+      "Nessuna difficoltà",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il setting di un laboratorio si riferisce a:",
+    "answers": [
+      "Solo il tempo",
+      "Solo il prodotto",
+      "Lo spazio e l'organizzazione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'ascolto attivo è un elemento chiave per:",
+    "answers": [
+      "Una comunicazione efficace",
+      "Il disinteresse",
+      "La distrazione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il \"debrieifing\" al termine di un'attività laboratoriale serve a:",
+    "answers": [
+      "Andare subito via",
+      "Aggiungere punti bonus",
+      "Rielaborare l'esperienza",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La personalizzazione didattica si focalizza sui:",
+    "answers": [
+      "I bisogni del gruppo",
+      "I bisogni del dirigente scolastico",
+      "I programmi ministeriali",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il registro elettronico è:",
+    "answers": [
+      "un videogioco per imparare la matematica",
+      "un sistema online dove insegnanti registrano voti, assenze e argomenti delle lezioni",
+      "un diario online per gli studenti",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per fare una videolezione con tutta la classe in diretta si può utilizzare:",
+    "answers": [
+      "una piattaforma di videoconferenza (es. Zoom, Google Meet)",
+      "una calcolatrice",
+      "un telefono fisso",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "consegnare compiti online, scaricare materiali, fare test e ricevere comunicazioni dalla classe",
+    "answers": [
+      "Tutte le precedenti",
+      "Tra questi rappresenta un esempio di 'risorsa multimediale':",
+      "una matita e un quaderno",
+      "un video didattico che usa immagini, audio, animazioni e testo sullo schermo",
+      "un testo scritto di 200 pagine senza immagini",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Nel contesto della didattica il termine 'Gamification' sta per:",
+    "answers": [
+      "Far giocare gli studenti durante la propria lezione",
+      "Applicare elementi tipici dei giochi (punti, sfide, livelli, classifiche) alle attività di studio per renderle più divertenti e motivanti",
+      "L'obbligo di creare un videogioco per ogni materia",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Se un'insegnante registra una lezione e la mette online, si tratta di apprendimento asincrono. Questo significa che:",
+    "answers": [
+      "Devi studiare solo di notte",
+      "L'apprendimento non avviene in tempo reale: puoi accedere alla lezione in qualsiasi momento, senza essere collegato contemporaneamente all'insegnante.",
+      "L'insegnante è costantemente connesso per rispondere alle tue domande.",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Usare Google Docs o Office 365 per i compiti di gruppo:",
+    "answers": [
+      "Rende il lavoro più veloce solo se si lavora da soli.",
+      "Permette a più studenti di scrivere e modificare lo stesso documento contemporaneamente da diversi computer.",
+      "Garantisce che il documento non possa mai essere modificato da nessuno.",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per 'learning object' o oggetto di apprendimento si intende:",
+    "answers": [
+      "Una piccola risorsa digitale (es. una simulazione, un breve video, un quiz) riutilizzabile in diverse lezioni e corsi.",
+      "Qualsiasi oggetto fisico che porti a scuola (gomma, penna, ecc.).",
+      "Una lunga e complessa lezione universitaria.",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il vantaggio principale di fare un quiz online a fine lezione è:",
+    "answers": [
+      "Permettere di copiare facilmente le risposte dai compagni.",
+      "Fornire un feedback immediato sul tuo livello di comprensione dell'argomento, sapendo subito cosa hai sbagliato.",
+      "Permettere di scrivere lunghi saggi di filosofia.",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Con il termine e-Learning si intende:",
+    "answers": [
+      "L'apprendimento delle lingue orientali (come il giapponese).",
+      "L'apprendimento e la formazione che avvengono attraverso l'uso di dispositivi e risorse elettroniche (computer, internet, piattaforme).",
+      "L'apprendimento che avviene esclusivamente in presenza.",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un podcast didattico rappresenta:",
+    "answers": [
+      "Una serie di foto scattate in classe.",
+      "Un file audio (o serie di file) registrato, che tratta argomenti educativi e che puoi ascoltare mentre fai altre cose (es. viaggi in bus).",
+      "Un tipo di SMS molto lungo.",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il feedback immediato fornito da un'app o un quiz online è utile per:",
+    "answers": [
+      "Aiutare lo studente a capire subito dove ha sbagliato, a correggersi e a migliorare la comprensione del contenuto.",
+      "Dare all'insegnante meno lavoro da fare.",
+      "Far perdere tempo prezioso.",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per didattica sincrona si intende:",
+    "answers": [
+      "L'insegnante e lo studente sono collegati o presenti nello stesso luogo/momento e interagiscono in tempo reale (es. lezione in presenza o videolezione in diretta).",
+      "L'insegnante registra una lezione e la mette online.",
+      "Lo studio individuale che fai a casa.",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Caricare un file (upload) significa:",
+    "answers": [
+      "Trasferire un file dal tuo dispositivo a un server o a Internet (es. consegnare un compito sulla piattaforma)",
+      "Stampare un documento su carta",
+      "Trasferire un file da Internet al tuo dispositivo",
+      "tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Un foglio di calcolo (come Excel o Fogli Google) serve per:",
+    "answers": [
+      "scrivere un tema o una lettera formale",
+      "organizzare dati, eseguire calcoli complessi e creare grafici in modo strutturato",
+      "Ascoltare musica ad alto volume",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un software per presentazioni (es. PowerPoint) ha lo scopo di:",
+    "answers": [
+      "Sostituire completamente i libri di testo",
+      "Creare slide con testo, immagini e animazioni per supportare una spiegazione orale",
+      "Cercare rapidamente la definizione di una parola sconosciuta",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per Cyberbullismo si intende:",
+    "answers": [
+      "Un atto di bullismo o molestia compiuto attraverso strumenti digitali (internet, social network)",
+      "Un problema tecnico del computer che lo rallenta",
+      "La navigazione sicura sui siti web della scuola",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Se le risorse didattiche non sono accessibili, il principale ostacolo per gli studenti è:",
+    "answers": [
+      "L'impossibilità di condividere le risorse su WhatsApp",
+      "Gli studenti con disabilità (es. visive o uditive) o con bisogni educativi speciali non riescono a usare i materiali (es. video senza sottotitoli)",
+      "Il costo elevato dei libri",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per Digital Storytelling in una lezione si intende:",
+    "answers": [
+      "Leggere ad alta voce un testo sul tablet",
+      "Creare una narrazione o un racconto usando strumenti digitali (video, immagini, audio, animazioni) per spiegare un argomento o un concetto",
+      "Raccontare vecchie storie dal libro di storia",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un filtro famiglia/parental control sui dispositivi didattici è utile per:",
+    "answers": [
+      "limitare l'accesso a siti web inappropriati, gestire gli orari di utilizzo o bloccare download non autorizzati per la sicurezza dello studente",
+      "bloccare i compiti troppo difficili",
+      "connettersi automaticamente al Wi-Fi della scuola",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Scaricare un file (download) significa:",
+    "answers": [
+      "Salvare una copia di backup del tuo lavoro sul Cloud",
+      "Trasferire un file da un server o da Internet al tuo dispositivo (computer, telefono, ecc.)",
+      "Trasferire un file dal tuo computer a Internet",
+      "tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Scuola Secondaria di I Grado si rivolge a studenti di norma tra:",
+    "answers": [
+      "6 e 11 anni",
+      "11 e 14 anni",
+      "14 e 19 anni",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'alunno con disabilità nella Secondaria di I grado può essere valutato con obiettivi:",
+    "answers": [
+      "Solo uguali a tutti",
+      "Solo sul disegno",
+      "Differenziati (rispetto al Piano Educativo Individualizzato)",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La disposizione più importante che regola l'esame di Stato (Licenza Media) è:",
+    "answers": [
+      "La legge del taglione",
+      "Il D.Lgs. 62/2017",
+      "Non è stata prevista",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Gli alunni con disabilità nella Secondaria di I Grado sono ammessi all'esame di Stato:",
+    "answers": [
+      "Solo se hanno tutti 10",
+      "Di norma, salvo casi eccezionali stabiliti nel PEI",
+      "Solo se fanno sport",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nel caso di PEI differenziato, nel diploma di Licenza Media viene rilasciato un attestato di:",
+    "answers": [
+      "Eccellenza",
+      "Credito formativo",
+      "Partecipazione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I crediti formativi nell'esame di Stato sono utili per:",
+    "answers": [
+      "Solo il voto di condotta",
+      "Garantire la spendibilità del percorso svolto",
+      "L'iscrizione all'università",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Chi presiede il GLO nella Secondaria di I Grado?",
+    "answers": [
+      "Il Dirigente Scolastico o un suo delegato",
+      "Il solo insegnante di sostegno",
+      "La nonna",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il Consiglio di Classe ha un ruolo fondamentale nella:",
+    "answers": [
+      "Pulizia delle aule",
+      "Definizione e attuazione del PEI",
+      "Organizzazione delle feste",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le prove d'esame per gli alunni con disabilità devono essere:",
+    "answers": [
+      "Più lunghe",
+      "Uguali per tutti",
+      "Coerenti con il PEI e con misure compensative/dispensative",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'inclusione nella Secondaria I Grado deve preparare lo studente alla scelta della:",
+    "answers": [
+      "Scuola Secondaria di II Grado",
+      "Squadra di calcio",
+      "Vita lavorativa",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'Assistente all'Autonomia e Comunicazione nella Secondaria I Grado è essenziale per:",
+    "answers": [
+      "Le verifiche scritte",
+      "La gestione della relazione e l'indipendenza",
+      "Le lezioni di storia",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il PDP nella Secondaria I Grado è redatto da:",
+    "answers": [
+      "Il Consiglio di Classe",
+      "L'ASL",
+      "Il Comitato genitori",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Un alunno con Dislessia (DSA) può essere dispensato nella Secondaria I Grado da:",
+    "answers": [
+      "L'Educazione Fisica",
+      "La lettura ad alta voce in tempi rapidi",
+      "Venire a scuola",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La legislazione inclusiva mira a rimuovere le barriere:",
+    "answers": [
+      "Geografiche",
+      "Economiche",
+      "Fisiche, comunicative e didattiche",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Nel PEI della Secondaria I Grado si pone l'accento sulla:",
+    "answers": [
+      "La velocità nel mangiare",
+      "Sfera emotivo-affettiva e dell'autostima",
+      "Solo l'altezza del ragazzo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I Bisogni Educativi Speciali (BES) vengono individuati in base a:",
+    "answers": [
+      "Il colore degli occhi",
+      "Rilevazioni pedagogico-didattiche",
+      "La marca dei vestiti",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le misure compensative per la Secondaria I Grado includono:",
+    "answers": [
+      "La dispensa totale",
+      "L'uso di mappe concettuali, tabelle, calcolatrice",
+      "La riduzione dei compiti a casa",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La legge che ha introdotto il PEI congiunto (DF e PDF unificati nel PF) è:",
+    "answers": [
+      "Le tavole della legge",
+      "Il D.Lgs. 66/2017",
+      "Verrà prossimamente introdotta",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nel caso di PEI differenziato, la pagella dell'alunno:",
+    "answers": [
+      "Riporta solo voti alti",
+      "Non riporta nulla",
+      "Riporta la dicitura \"PEI differenziato\"",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il documento di valutazione finale dell'alunno con disabilità:",
+    "answers": [
+      "Viene deciso solo dal sostegno",
+      "Viene deliberato dal Consiglio di Classe",
+      "Viene deciso dai compagni",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La continuità didattica finalizzata all'inclusione scolastica tra Primaria e Secondaria I Grado è assicurata da:",
+    "answers": [
+      "Gite insieme",
+      "Incontri tra i docenti del GLO",
+      "L'uniforme",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'alunno con DSA (L. 170/2010) ha diritto a tempi supplementari per le prove scritte?",
+    "answers": [
+      "No",
+      "Solo per il tema",
+      "Sì, fino a un massimo del 30%",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'assegnazione delle ore di sostegno è un atto:",
+    "answers": [
+      "Di cortesia",
+      "Sportivo",
+      "Amministrativo e didattico",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La formazione del personale docente in materia di inclusione è:",
+    "answers": [
+      "Facoltativa",
+      "Obbligatoria e permanente",
+      "Solo per i nuovi assunti",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I docenti curricolari sono contitolari della presa in carico:",
+    "answers": [
+      "Solo dell'insegnante di sostegno",
+      "Di tutti gli alunni della classe, inclusi i disabili",
+      "Solo del Dirigente",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La programmazione della Secondaria I Grado deve essere:",
+    "answers": [
+      "Rigida",
+      "Breve",
+      "Flessibile e adattabile",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La Legge 170 del 2010 si occupa specificamente di:",
+    "answers": [
+      "Disabilità visiva",
+      "Disturbi Specifici dell'Apprendimento (DSA)",
+      "Disabilità motoria",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La valutazione dei progressi dell'alunno con disabilità avviene principalmente in:",
+    "answers": [
+      "I momenti di verifica e il GLO",
+      "Solo l'intervallo",
+      "Solo l'ora di religione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La scuola è tenuta a fornire materiali didattici:",
+    "answers": [
+      "Solo cartacei",
+      "Accessibili a tutti gli alunni (es. mappe)",
+      "Solo digitali",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'obiettivo di Orientamento nella Secondaria I Grado è aiutare l'alunno a scegliere:",
+    "answers": [
+      "Un hobby",
+      "La Scuola Superiore più adatta",
+      "Un regalo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Neuropsichiatria Infantile si occupa di studiare:",
+    "answers": [
+      "Le malattie degli adulti",
+      "I disturbi del cervello e della mente nei bambini e pre-adolescenti",
+      "Le piante",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Disturbo dello Spettro Autistico riguarda principalmente difficoltà in:",
+    "answers": [
+      "La corsa",
+      "La lettura ad alta voce",
+      "Comunicazione e interazione sociale",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "I Disturbi Specifici dell'Apprendimento (DSA) includono:",
+    "answers": [
+      "La felicità",
+      "Dislessia (difficoltà di lettura)",
+      "La paura del buio",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'ADHD (Deficit di Attenzione e Iperattività) è un disturbo che si manifesta con:",
+    "answers": [
+      "Perfetta calma",
+      "Difficoltà di concentrazione e irrequietezza",
+      "Sonno costante",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "DSA sta per:",
+    "answers": [
+      "Dischi Sferici Accessori",
+      "Disturbo Specifico dell'Apprendimento",
+      "Distratti Sempre Ascoltano",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Disgrafia è un DSA che riguarda una difficoltà nella:",
+    "answers": [
+      "Memoria",
+      "Scrittura (grafia)",
+      "Matematica",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per la diagnosi dei disturbi NPI è fondamentale osservare lo sviluppo dell'età evolutiva in relazione:",
+    "answers": [
+      "Al tempo atmosferico",
+      "All'età (tappe di sviluppo)",
+      "Al colore dei suoi vestiti",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un sintomo tipico dell'iperattività è:",
+    "answers": [
+      "La quiete",
+      "L'eccessivo movimento e irrequietezza",
+      "La lettura lenta",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Discalculia è un DSA che rende difficile:",
+    "answers": [
+      "Parlare correttamente",
+      "Usare e comprendere i numeri",
+      "Correre",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I Disturbi del Neurosviluppo sono problemi che insorgono:",
+    "answers": [
+      "Nelle prime fasi di sviluppo del bambino/ragazzo",
+      "Solo nell'età adulta",
+      "Solo in età avanzata",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale professionista collabora spesso con il NPI per la riabilitazione?",
+    "answers": [
+      "Il cuoco",
+      "Il Logopedista o il Terapista della Neuropsicomotricità",
+      "L'ingegnere",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quale condizione genetica può comportare Disabilità Intellettiva?",
+    "answers": [
+      "Sindrome di Peter Pan",
+      "Sindrome di Down",
+      "Sindrome di Stoccolma",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'ansia sociale (fobia sociale) nella pre-adolescenza è la paura di:",
+    "answers": [
+      "Andare al bar",
+      "Essere giudicati o umiliati in pubblico",
+      "Mangiare la verdura",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I pensieri e le azioni ripetitive e intrusive nella pre-adolescenza possono essere sintomo di:",
+    "answers": [
+      "Troppa allegria",
+      "Disturbo Ossessivo-Compulsivo (DOC)",
+      "Sonno profondo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'ansia da separazione nella pre-adolescenza può manifestarsi come paura eccessiva di allontanarsi da:",
+    "answers": [
+      "La chiesa",
+      "Le figure di attaccamento (es. genitori) o casa",
+      "I giochi",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il termine comorbidità in NPI significa che:",
+    "answers": [
+      "Sono parenti",
+      "Sono presenti due o più disturbi nello stesso individuo",
+      "Sono gemelli",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le \"crisi di rabbia\" intense e sproporzionate all'evento scatenante possono essere un sintomo di:",
+    "answers": [
+      "Perfetta gestione emotiva",
+      "Disturbo da Disregolazione dell'Umore Dirompente",
+      "Sonno costante",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un pre-adolescente con Disturbo del Linguaggio ha difficoltà a:",
+    "answers": [
+      "Disegnare",
+      "Usare e capire le parole, anche in contesti complessi",
+      "Dormire",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quale organo è centrale nello studio della Neuropsichiatria Infantile?",
+    "answers": [
+      "Il piede",
+      "Il cervello",
+      "Il cuore",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I Tic (movimenti o vocalizzazioni improvvisi) fa parte di quale categoria di disturbi?",
+    "answers": [
+      "Disturbo della vista",
+      "Disturbi del movimento",
+      "Disturbi della pelle",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'intervento precoce in NPI è importante perché interviene quando il cervello è più:",
+    "answers": [
+      "Pesante",
+      "Plastico (facilmente modificabile)",
+      "Rigido",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La valutazione neuropsichiatrica si svolge attraverso:",
+    "answers": [
+      "Solo un disegno",
+      "Colloqui con genitore e ragazzo, e test specifici",
+      "Una partita a carte",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I problemi di regolazione emotiva significano che il ragazzo ha difficoltà a:",
+    "answers": [
+      "Mangiare",
+      "Gestire le proprie emozioni (rabbia, tristezza, ansia)",
+      "Correre veloce",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Mutismo Selettivo è un disturbo d'ansia in cui il ragazzo non parla in:",
+    "answers": [
+      "Casa",
+      "Specifiche situazioni sociali (es. scuola o fuori)",
+      "Giardino",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un pre-adolescente con DSA (es. Dislessia) ha un'intelligenza:",
+    "answers": [
+      "Molto bassa",
+      "Nella norma o superiore",
+      "Assente",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un \"atto autolesivo non suicidario\" (NSSI) nella pre-adolescenza indica:",
+    "answers": [
+      "Un hobby",
+      "Una modalità per gestire un forte dolore emotivo",
+      "Una scusa per saltare la scuola",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'isolamento sociale e la perdita di interesse per attività piacevoli in pre-adolescenza possono essere segnali di:",
+    "answers": [
+      "Troppo sport",
+      "Disturbi dell'umore (es. Depressione)",
+      "Eccessivo sonno",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un segno di Disturbo della Condotta nella pre-adolescenza può essere:",
+    "answers": [
+      "Aiutare i genitori",
+      "Violazione grave delle regole sociali (es. furto, aggressività)",
+      "Dormire molto",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il principale strumento di inclusione a scuola per un disturbo NPI è:",
+    "answers": [
+      "Solo un quaderno",
+      "Il PEI o il PDP",
+      "Un giocattolo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La terapia farmacologica in NPI viene usata solo se:",
+    "answers": [
+      "Il dentista lo chiede",
+      "È strettamente necessario e sotto controllo medico",
+      "Il ragazzo è felice",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Psicologia dello Sviluppo studia i cambiamenti delle persone dall'infanzia fino:",
+    "answers": [
+      "Alla scuola elementare",
+      "A tutta la vita",
+      "al compimento dei 14 anni",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Secondo Piaget, il bambino apprende principalmente attraverso:",
+    "answers": [
+      "La lettura di libri",
+      "L'azione e l'esperienza diretta",
+      "Le istruzioni dei genitori",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'apprendimento è un cambiamento:",
+    "answers": [
+      "Solo fisico (altezza)",
+      "Duraturo del comportamento o delle conoscenze",
+      "Solo temporaneo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Lo sviluppo cognitivo riguarda il miglioramento di:",
+    "answers": [
+      "La forza fisica",
+      "L'abilità di disegnare",
+      "Il pensiero e l'intelligenza",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Vygotskij ha introdotto il concetto di Zona di Sviluppo Prossimale (ZSP) che è la distanza tra:",
+    "answers": [
+      "La casa e la scuola",
+      "Un compito facile e uno impossibile",
+      "Ciò che il bambino sa fare da solo e ciò che fa con aiuto",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La motivazione estrinseca è quella che dipende da:",
+    "answers": [
+      "Il piacere per il compito",
+      "La felicità interiore",
+      "Premi o punizioni esterni",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Lo stile di insegnamento di un docente si riferisce a:",
+    "answers": [
+      "L'abbigliamento del docente",
+      "Il modo in cui presenta la lezione",
+      "La quantità di compiti assegnati",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'imitazione è un meccanismo di apprendimento in cui il bambino:",
+    "answers": [
+      "Inventa nuove regole",
+      "Copia il comportamento di un adulto o pari",
+      "Gioca da solo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Psicologia Scolastica si occupa di:",
+    "answers": [
+      "Solo di calcio",
+      "Problemi di apprendimento e relazione a scuola",
+      "Costruire banchi",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un modello di insegnamento che usa il gioco si chiama:",
+    "answers": [
+      "Modello autoritario",
+      "Modello ludico o gamification",
+      "Modello frontale",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quale età caratterizza la fase dell'adolescenza?",
+    "answers": [
+      "2-5 anni",
+      "Circa 11-18 anni",
+      "80-90 anni",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il rinforzo positivo è un premio dato per:",
+    "answers": [
+      "Un errore",
+      "Incoraggiare un comportamento corretto",
+      "Fare rumore",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'attenzione è la capacità di:",
+    "answers": [
+      "Dormire bene",
+      "Concentrarsi su una cosa specifica",
+      "Pensare a molte cose contemporaneamente",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il modello costruttivista sostiene che l'apprendimento è:",
+    "answers": [
+      "Solo memoria",
+      "La costruzione attiva di conoscenza da parte dello studente",
+      "Un'imposizione esterna",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'attaccamento sicuro tra bambino e genitore è importante per il:",
+    "answers": [
+      "Peso corporeo",
+      "Sviluppo emotivo e sociale",
+      "Colore dei capelli",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il termine metacognizione si riferisce al:",
+    "answers": [
+      "Cantare forte",
+      "Riflettere sul proprio modo di imparare",
+      "Mangiare velocemente",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quale di questi non è un Disturbo Specifico dell'Apprendimento (DSA)?",
+    "answers": [
+      "Dislessia",
+      "Autismo",
+      "Disgrafia",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il cooperative learning è una strategia di insegnamento che promuove:",
+    "answers": [
+      "Lo studio individuale",
+      "Il lavoro di gruppo tra studenti",
+      "La lettura silenziosa",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La memoria a breve termine trattiene l'informazione per un tempo:",
+    "answers": [
+      "Molto lungo",
+      "Molto breve",
+      "Non definito",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il modello di insegnamento frontale è quello dove l'insegnante:",
+    "answers": [
+      "Spiega da solo alla cattedra",
+      "Fa lavorare i gruppi",
+      "Fa fare ricerche",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La maturazione (cambiamenti biologici) influenza:",
+    "answers": [
+      "La capacità di guidare",
+      "Lo sviluppo cognitivo e fisico",
+      "La capacità di ballare",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La teoria di Bandura è famosa per l'apprendimento per:",
+    "answers": [
+      "Solo punizioni",
+      "Osservazione (modelling)",
+      "Sollevamento pesi",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le emozioni fondamentali (gioia, paura, rabbia) si sviluppano:",
+    "answers": [
+      "Solo nell'età adulta",
+      "Nei primi anni di vita",
+      "Solo in pensione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il problem solving è la capacità di:",
+    "answers": [
+      "Evitare i problemi",
+      "Trovare soluzioni a situazioni difficili",
+      "Creare problemi",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Didattica per competenze si concentra su cosa lo studente sa:",
+    "answers": [
+      "Recitare a memoria",
+      "Fare con ciò che ha imparato",
+      "Dimenticare velocemente",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La fase pre-operatoria di Piaget (2-7 anni) è caratterizzata dall'uso di:",
+    "answers": [
+      "Simboli e linguaggio",
+      "Matite colorate",
+      "giocattoli",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il concetto di resilienza in Psicologia dello Sviluppo è la capacità di:",
+    "answers": [
+      "Dormire 16 ore",
+      "Superare eventi difficili",
+      "Non commettere mai errori",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un fattore che influenza l'apprendimento in classe è:",
+    "answers": [
+      "La grandezza della lavagna",
+      "Il clima emotivo e relazionale",
+      "L'età del docente",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il costo della risposta (punizione) mira a:",
+    "answers": [
+      "Aumentare il comportamento",
+      "Non avere effetto",
+      "Far diminuire un comportamento indesiderato",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La Dislessia è un Disturbo Specifico dell'Apprendimento (DSA) che riguarda la difficoltà di:",
+    "answers": [
+      "Lettura",
+      "Scrittura",
+      "Calcolo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il disturbo del neurosviluppo più conosciuto è la:",
+    "answers": [
+      "Felicità",
+      "Velocità",
+      "Disabilità intellettiva",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Cosa significa la sigla DSA?",
+    "answers": [
+      "Massive Open Online Course",
+      "Documento di Studio Annuale",
+      "Disturbi Specifici dell'Apprendimento",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Per i bambini con disabilità intellettiva è fondamentale lavorare su:",
+    "answers": [
+      "La velocità di corsa",
+      "Il canto lirico",
+      "Le autonomie personali",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il modello inclusivo a scuola vuole che gli alunni con disabilità stiano:",
+    "answers": [
+      "In una classe separata",
+      "A casa",
+      "Insieme a tutti gli altri",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il PDP (Piano Didattico Personalizzato) è un documento usato per gli alunni con:",
+    "answers": [
+      "Perfetta salute",
+      "Mancanza di sonno",
+      "DSA o BES",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "I bambini con Autismo spesso hanno difficoltà nel:",
+    "answers": [
+      "Respirare",
+      "Correre",
+      "Comunicare e interagire",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quale figura professionale lavora con l'alunno con disabilità per l'inclusione?",
+    "answers": [
+      "Il cuoco",
+      "L'idraulico",
+      "Il docente di sostegno",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Per la disabilità intellettiva è utile usare schede e compiti molto:",
+    "answers": [
+      "Complessi",
+      "Difficili",
+      "Semplici e strutturati",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il linguaggio verbale si può supportare usando:",
+    "answers": [
+      "Solo la matematica",
+      "Solo il silenzio",
+      "Immagini e simboli (CAA)",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Un intervento psico-educativo riguarda gli aspetti della:",
+    "answers": [
+      "Vita economica",
+      "Giurisprudenza",
+      "Psicologia e dell'educazione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Cosa si intende per BES?",
+    "answers": [
+      "Belle Etichette Scritte",
+      "Buone Emozioni Scolastiche",
+      "Bisogni Educativi Speciali",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La disabilità intellettiva si caratterizza per un limite nelle capacità:",
+    "answers": [
+      "Motorie (corsa)",
+      "Finanziarie",
+      "Cognitive e adattive",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il PEI (Piano Educativo Individualizzato) viene preparato dal:",
+    "answers": [
+      "Preside da solo",
+      "Genitore da solo",
+      "Consiglio di classe con esperti",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Per insegnare una nuova abilità ad un bambino con disabilità intellettiva, è meglio usare:",
+    "answers": [
+      "Solo lunghe spiegazioni",
+      "Solo testi difficili",
+      "Passaggi brevi e ripetuti",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'ADHD (Disturbo da Deficit di Attenzione e Iperattività) causa problemi di:",
+    "answers": [
+      "Solipsismo",
+      "Balbuzie",
+      "Concentrazione e calma",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'obiettivo finale di tutti gli interventi inclusivi è l'autonomia e:",
+    "answers": [
+      "L'isolamento",
+      "La dipendenza",
+      "La partecipazione attiva",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Cosa NON è un Disturbo Specifico dell'Apprendimento (DSA)?",
+    "answers": [
+      "Dislessia",
+      "Disgrafia",
+      "Sindrome di Down",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La Disprassia è un disturbo che riguarda la difficoltà a:",
+    "answers": [
+      "Capire i suoni",
+      "Vedere i colori",
+      "Pianificare i movimenti",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Cosa sono i rinforzi positivi negli interventi psico-educativi?",
+    "answers": [
+      "Punizioni",
+      "Critiche severe",
+      "Premi e lodi per un comportamento corretto",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il principio base per l'inclusione è il rispetto delle differenze e la valorizzazione di:",
+    "answers": [
+      "Solo la media dei voti",
+      "Solo l'intelligenza",
+      "Ogni persona",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Cosa aiuta a mantenere un ambiente di apprendimento prevedibile per un bambino con Autismo?",
+    "answers": [
+      "Cambiare sempre la routine",
+      "Non usare orari",
+      "L'uso di una agenda visiva",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'uso di simboli e immagini per comunicare è una parte della:",
+    "answers": [
+      "Educazione fisica",
+      "Educazione musicale",
+      "Comunicazione Aumentativa Alternativa (CAA)",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'obiettivo dello sviluppo sociale in ambito inclusivo è insegnare a:",
+    "answers": [
+      "Stare sempre da soli",
+      "Urlare",
+      "Interagire con gli altri (giocare, salutare)",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La sindrome di Down è un tipo di:",
+    "answers": [
+      "Mal di testa",
+      "Sensibilità agli odori",
+      "Disabilità intellettiva",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Per supportare un bambino con ADHD, è utile prevedere momenti di:",
+    "answers": [
+      "Tristezza",
+      "Compiti difficilissimi",
+      "Movimento e pause attive",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Cosa si intende per \"cooperative learning\" in classe?",
+    "answers": [
+      "Studiare solo da soli",
+      "Fare gare tra studenti",
+      "Lavorare insieme in piccoli gruppi",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'ecolalia (ripetere le parole) è una caratteristica che si può notare spesso nel disturbo:",
+    "answers": [
+      "Iconico",
+      "Malincolico",
+      "Dello Spettro Autistico",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La Discalculia è un Disturbo Specifico dell'Apprendimento (DSA) che riguarda la difficoltà con:",
+    "answers": [
+      "Il disegno",
+      "La lettura",
+      "I numeri e la matematica",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La scuola inclusiva deve cercare di adattare l'insegnamento agli alunni, non viceversa. Questo principio è detto:",
+    "answers": [
+      "Esclusione",
+      "Neutralità",
+      "Flessibilità didattica",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quale abilità è essenziale per l'autonomia personale?",
+    "answers": [
+      "Suonare uno strumento",
+      "Dormire",
+      "Vestirsi da soli (Autosufficienza)",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La base per una buona relazione di aiuto è mostrare:",
+    "answers": [
+      "Rabbia",
+      "Empatia (capire i sentimenti altrui)",
+      "Indifferenza",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La relazione di aiuto serve principalmente a:",
+    "answers": [
+      "Fare sport",
+      "Supportare l'altra persona in difficoltà",
+      "Insegnare a cucinare",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'ascolto attivo significa:",
+    "answers": [
+      "Ascoltare la musica",
+      "Parlare tantissimo",
+      "Concentrarsi su ciò che dice l'altro",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Chi offre aiuto deve avere un atteggiamento di:",
+    "answers": [
+      "Giudizio",
+      "Accettazione incondizionata",
+      "Critica",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Pedagogista è un professionista che si occupa di:",
+    "answers": [
+      "Malattie fisiche",
+      "Educazione e formazione della persona",
+      "Costruire edifici",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un elemento fondamentale della relazione di aiuto è la:",
+    "answers": [
+      "Distanza",
+      "Fiducia reciproca",
+      "Segretezza",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Lo scopo dell'aiuto è rendere la persona:",
+    "answers": [
+      "Dipendente dall'aiutante",
+      "Triste",
+      "Autonoma e capace di decidere",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'empatia consiste nel mettersi:",
+    "answers": [
+      "Nei panni dell'altro",
+      "In fila",
+      "A letto",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La comunicazione non verbale include:",
+    "answers": [
+      "Solo le parole scritte",
+      "I gesti e le espressioni del viso",
+      "Solo le parole dette",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il setting nella relazione di aiuto è:",
+    "answers": [
+      "Un gioco",
+      "Il luogo e la cornice dell'incontro",
+      "Un vestito",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La relazione di aiuto si basa sulla conoscenza di sé e della propria:",
+    "answers": [
+      "Automobili",
+      "Casa",
+      "Professionalità e limiti",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quale di queste è una capacità dell'aiutante?",
+    "answers": [
+      "Essere muscoloso",
+      "Essere ricchi",
+      "Saper porre domande aperte",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il rispecchiamento è una tecnica che aiuta l'altro a:",
+    "answers": [
+      "Rifare i pavimenti",
+      "Vedere la propria immagine",
+      "Riconoscere le proprie emozioni",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La sospensione del giudizio significa:",
+    "answers": [
+      "Interrompere la conversazione",
+      "Non criticare subito l'altro",
+      "Giudicare in segreto",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La relazione di aiuto è un rapporto di tipo:",
+    "answers": [
+      "Gerarchico (uno comanda)",
+      "Competitivo",
+      "Asimmetrico (uno aiuta, l'altro è aiutato)",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il termine \"take care\" (prendersi cura) nella relazione di aiuto si riferisce a:",
+    "answers": [
+      "Pulire la casa",
+      "L'attenzione al benessere dell'altro",
+      "Andare in vacanza",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quale emozione è importante riconoscere nell'altro?",
+    "answers": [
+      "Indifferenza",
+      "Gelosia",
+      "La sua tristezza o gioia",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Lo scopo della relazione di aiuto è il:",
+    "answers": [
+      "Mantenimento del problema",
+      "Cambiamento positivo dell'altro",
+      "Peggioramento della situazione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per essere un buon aiutante, è necessario essere:",
+    "answers": [
+      "Chiuso e silenzioso",
+      "Distratto",
+      "Aperto e disponibile",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La riformulazione è una tecnica usata per:",
+    "answers": [
+      "Inventare nuove parole",
+      "Ripetere le parole dell'altro per chiarire",
+      "Cambiare argomento",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La motivazione della persona aiutata deve essere:",
+    "answers": [
+      "Assente",
+      "Forzata",
+      "Interna (volontà di cambiare)",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il momento di conclusione della relazione di aiuto è importante per:",
+    "answers": [
+      "Ignorare la persona",
+      "Valutare i progressi fatti",
+      "Dimenticare tutto",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La congruenza dell'aiutante significa che le sue parole sono in accordo con i:",
+    "answers": [
+      "Soldi",
+      "Viaggi",
+      "Suoi pensieri e sentimenti",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La relazione di aiuto si svolge attraverso un processo di:",
+    "answers": [
+      "Un unico incontro",
+      "Un solo contatto",
+      "Diverse fasi ben definite",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il silenzio nella relazione di aiuto può servire a:",
+    "answers": [
+      "Dormire",
+      "Dare spazio di riflessione all'altro",
+      "Disinteressarsi",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Cosa si intende per \"alleanza di lavoro\"?",
+    "answers": [
+      "Un patto segreto",
+      "La collaborazione tra aiutante e aiutato",
+      "Un contratto legale",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nella relazione di aiuto, il focus deve essere sui punti di forza (risorse) e non solo su:",
+    "answers": [
+      "I successi",
+      "La famiglia",
+      "I problemi e le debolezze",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il confine professionale serve a:",
+    "answers": [
+      "Allontanare l'altro",
+      "Far pagare",
+      "Mantenere la relazione chiara e definita",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Cosa può trasmettere la postura aperta dell'aiutante?",
+    "answers": [
+      "Chiusura",
+      "Disponibilità e accoglienza",
+      "Noia",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il concetto di resilienza si riferisce alla capacità di:",
+    "answers": [
+      "Piangere",
+      "Dormire tanto",
+      "Affrontare e superare le difficoltà",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La Disabilità Intellettiva implica un funzionamento intellettivo:",
+    "answers": [
+      "Superiore alla media",
+      "Significativamente inferiore alla media",
+      "Nella norma",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I Disturbi del Neurosviluppo insorgono tipicamente:",
+    "answers": [
+      "Mai prima dei 40 anni",
+      "Nei primi anni di vita",
+      "Durante la vecchiaia",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quale metodologia è spesso usata per l'Autismo?",
+    "answers": [
+      "L'insegnamento frontale",
+      "Il Metodo Teacch (strutturazione dello spazio e del tempo)",
+      "Le gite",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'uso di agende e schemi visivi supporta la:",
+    "answers": [
+      "Disgrafia",
+      "Prevedibilità e l'orientamento",
+      "La corsa",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'acronimo CAA sta per:",
+    "answers": [
+      "Corso Avanzato di Arte",
+      "Cucina con Amore e Allegria",
+      "Comunicazione Aumentativa Alternativa",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Qual è il focus principale degli interventi per la Disabilità Intellettiva?",
+    "answers": [
+      "Solo la memoria",
+      "Le abilità adattive e l'autonomia",
+      "La velocità di scrittura",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'ecolalia è un comportamento caratteristico di quale disturbo?",
+    "answers": [
+      "La Balbuzie",
+      "Il Disturbo dello Spettro Autistico",
+      "La sindrome di Stoccolma",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un intervento didattico per l'ADHD deve prevedere:",
+    "answers": [
+      "Pause attive e movimento",
+      "Lunghe lezioni frontali",
+      "la lettura in piedi",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La Disprassia è un disturbo che riguarda la coordinazione e:",
+    "answers": [
+      "il nuoto",
+      "la digestione",
+      "l'esecuzione di movimenti finalizzati",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il Logopedista interviene soprattutto sui Disturbi di:",
+    "answers": [
+      "La corsa",
+      "Linguaggio e comunicazione",
+      "Il sonno",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La generalizzazione di un apprendimento significa che lo studente è capace di:",
+    "answers": [
+      "Imparare solo in un luogo",
+      "Usare l'abilità in contesti diversi",
+      "Dimenticare velocemente",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Disturbo Oppositivo Provocatorio (DOP) è caratterizzato da:",
+    "answers": [
+      "Eccessiva calma",
+      "Comportamenti di sfida e irritabilità",
+      "Perfetta obbedienza",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per token economy si intende una tecnica di:",
+    "answers": [
+      "Disegno",
+      "Rinforzo tramite gettoni/punti",
+      "Canto",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Plasticità cerebrale rende l'intervento precoce in NPI:",
+    "answers": [
+      "Meno efficace",
+      "Molto più efficace",
+      "Inutile",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Gli interessi ristretti e ripetitivi sono tipici del:",
+    "answers": [
+      "Disturbo del sonno",
+      "Disturbo dello Spettro Autistico",
+      "Disturbo della vista",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il peer tutoring (insegnamento tra pari) è una strategia che favorisce:",
+    "answers": [
+      "L'inclusione sociale e l'apprendimento reciproco",
+      "La competizione",
+      "L'isolamento",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le schede di lavoro facilitate servono a:",
+    "answers": [
+      "Rendere il compito più difficile",
+      "Rendere il compito accessibile",
+      "Far perdere tempo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il modello ABC (Antecedent-Behavior-Consequence) si usa per analizzare:",
+    "answers": [
+      "La storia",
+      "I comportamenti problema",
+      "La geografia",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Disabilità Intellettiva è definita anche da deficit nel funzionamento:",
+    "answers": [
+      "Sportivo",
+      "Esecutivo",
+      "Adattivo (abilità sociali, pratiche e concettuali)",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il disturbo del linguaggio si manifesta come difficoltà nella:",
+    "answers": [
+      "Corsa",
+      "Comprensione o produzione del linguaggio",
+      "Pittura",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Psicomotricità aiuta lo sviluppo attraverso:",
+    "answers": [
+      "Il movimento e il gioco",
+      "La lettura di libri",
+      "Il silenzio assoluto",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La strutturazione dell'ambiente (Teacch) fornisce al bambino:",
+    "answers": [
+      "Confusione",
+      "Chiarezza, prevedibilità e ordine",
+      "Libertà assoluta",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le funzioni esecutive (memoria di lavoro, pianificazione) sono spesso deficitarie nel disturbo:",
+    "answers": [
+      "Del sonno",
+      "ADHD",
+      "Della deglutizione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il mediatore didattico (es. mappa) serve a:",
+    "answers": [
+      "Allontanare l'alunno",
+      "Facilitare la comprensione dei contenuti",
+      "Far perdere la concentrazione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Dislessia è una difficoltà specifica di:",
+    "answers": [
+      "Lettura",
+      "Scrittura",
+      "Calcolo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'obiettivo di Autodeterminazione nella Didattica Speciale è promuovere la capacità di:",
+    "answers": [
+      "Obbedire",
+      "Fare scelte e prendere decisioni",
+      "Stare zitti",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'Analisi del Compito (Task Analysis) è la scomposizione di un compito complesso in:",
+    "answers": [
+      "Tanti giochi",
+      "Sequenze più piccole e semplici",
+      "Una sola azione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il supporto individualizzato è fornito da:",
+    "answers": [
+      "Tutta la classe",
+      "Il docente di sostegno o l'assistente",
+      "Solo il Dirigente",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Disturbo della Comunicazione Sociale (Pragmatica) si manifesta con difficoltà a usare il linguaggio in modo:",
+    "answers": [
+      "Scritto",
+      "Adeguato al contesto sociale",
+      "Semplice",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La valutazione ecologica considera l'apprendimento nel:",
+    "answers": [
+      "Laboratorio",
+      "Contesto di vita reale dell'alunno",
+      "Silenzio",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il PEI (Piano Educativo Individualizzato) è un documento di:",
+    "answers": [
+      "Valutazione finanziaria",
+      "Programmazione didattica e inclusiva",
+      "Solo i voti",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'acronimo PF sta per:",
+    "answers": [
+      "Piano Finanziario",
+      "Piccolo Fascicolo",
+      "Profilo di Funzionamento",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il Profilo di Funzionamento (PF) viene redatto secondo il modello:",
+    "answers": [
+      "Del gioco",
+      "ICF (Classificazione Internazionale del Funzionamento)",
+      "Del voto",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Progetto di Vita è un piano a:",
+    "answers": [
+      "scadenza",
+      "Lungo termine (orientamento futuro)",
+      "pagamento",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Chi partecipa alla redazione del PEI (nel GLO)?",
+    "answers": [
+      "Solo i docenti",
+      "I genitori, i docenti, l'ASL e l'Assistente",
+      "Solo l'alunno",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La valutazione del PEI è un momento di:",
+    "answers": [
+      "Verifica dei progressi e ri-progettazione",
+      "Festeggiamento",
+      "Gioco",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il modello di Qualità della Vita si basa sul concetto di:",
+    "answers": [
+      "Fabbisogno nutrizionale",
+      "Benessere multidimensionale (es. benessere fisico, emotivo)",
+      "Successo economico",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Profilo di Funzionamento descrive:",
+    "answers": [
+      "Solo i problemi",
+      "Il funzionamento dell'alunno e i suoi bisogni di supporto",
+      "Solo i voti",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il PEI deve essere coerente con il:",
+    "answers": [
+      "Menù della mensa",
+      "Profilo di Funzionamento (PF)",
+      "reddito della famiglia",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Gli obiettivi del PEI sono classificati in:",
+    "answers": [
+      "Breve, medio e lungo termine",
+      "Piccoli e grandi",
+      "Facili e difficili",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'ICF si concentra sulle:",
+    "answers": [
+      "Solo le malattie",
+      "Interazioni tra salute e contesto (funzionamento)",
+      "Solo le diagnosi",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Progetto di Vita viene elaborato in collaborazione con:",
+    "answers": [
+      "Solo la scuola",
+      "La famiglia, gli Enti Locali e i Servizi",
+      "I vicini",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il PEI può prevedere una programmazione:",
+    "answers": [
+      "Solo standard",
+      "Differenziata (per obiettivi non riconducibili al curricolo)",
+      "Solo orale",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La dimensione del Benessere include aspetti come:",
+    "answers": [
+      "Autodeterminazione e inclusione sociale",
+      "L'altezza",
+      "La moda",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le barriere nel modello ICF sono:",
+    "answers": [
+      "Oggetti rotti",
+      "Fattori ambientali che limitano la partecipazione",
+      "Voti bassi",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il GLO ha il compito di:",
+    "answers": [
+      "Valutare e approvare il PEI",
+      "Pulire la classe",
+      "Organizzare feste",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La valutazione del PEI deve essere basata su:",
+    "answers": [
+      "Sensazioni",
+      "Dati oggettivi e osservazioni",
+      "L'umore",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'autodeterminazione nel Progetto di Vita significa che la persona è capace di:",
+    "answers": [
+      "Obbedire",
+      "Decidere per sé e prendere iniziative",
+      "Stare in silenzio",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il PEI per gli alunni con Disabilità è obbligatorio per:",
+    "answers": [
+      "Solo la scuola superiore",
+      "Tutti gli ordini e gradi di istruzione",
+      "Solo la scuola media",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il curricolo dell'alunno con disabilità viene:",
+    "answers": [
+      "Solo ignorato",
+      "Personalizzato e adattato",
+      "Fatto fare ad altri",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I Fattori Ambientali sono elementi che:",
+    "answers": [
+      "Si trovano solo in natura",
+      "Influenzano il funzionamento dell'individuo",
+      "Non contano",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La transizione nel Progetto di Vita è il passaggio da:",
+    "answers": [
+      "Un compito all'altro",
+      "Un ciclo scolastico al successivo o alla vita adulta",
+      "Una stanza all'altra",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'indice di gravità della disabilità è stabilito dall'ente:",
+    "answers": [
+      "Comune",
+      "Scuola",
+      "ASL",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La programmazione per obiettivi nel PEI si basa su risultati:",
+    "answers": [
+      "Impossibili",
+      "Solo teorici",
+      "Misurabili e raggiungibili",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "I facilitatori nel modello ICF sono:",
+    "answers": [
+      "Ostacoli",
+      "Voti bassi",
+      "Fattori ambientali che promuovono la partecipazione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'obiettivo di Lavoro/Occupazione è parte del:",
+    "answers": [
+      "Solo della pagella",
+      "Progetto di Vita",
+      "Solo del PEI annuale",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La verifica finale del PEI serve a:",
+    "answers": [
+      "Iniziare",
+      "Stabilire gli obiettivi per l'anno successivo",
+      "Non fare niente",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il PEI include una sezione dedicata alle:",
+    "answers": [
+      "Vacanze",
+      "Solo i quaderni",
+      "Strategie e strumenti compensativi e dispensativi",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La Qualità della Vita (QdV) si concentra sull'ottica del:",
+    "answers": [
+      "Deficit",
+      "Sostegno e delle potenzialità",
+      "Solo della malattia",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La gestione inclusiva del gruppo classe ha come obiettivo principale:",
+    "answers": [
+      "La confusione",
+      "La partecipazione e l'accettazione di tutti",
+      "Il silenzio",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il clima di classe inclusivo deve essere basato su:",
+    "answers": [
+      "Competizione",
+      "Rispetto, fiducia e collaborazione",
+      "Silenzio totale",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le regole di classe devono essere:",
+    "answers": [
+      "Imposte dall'alto",
+      "Chiare, condivise e poche",
+      "Molto complesse",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un ambiente fisico inclusivo è caratterizzato da:",
+    "answers": [
+      "Spazi flessibili e accessibili",
+      "Banchi fissi",
+      "Pareti vuote",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La Didattica Laboratoriale favorisce l'inclusione perché promuove:",
+    "answers": [
+      "L'apprendimento attivo e l'interazione pratica",
+      "Lo studio solitario",
+      "La competizione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La Pedagogia Speciale considera la diversità come:",
+    "answers": [
+      "Un problema",
+      "Una risorsa e un valore",
+      "Un ostacolo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il docente di sostegno è un facilitatore di inclusione per:",
+    "answers": [
+      "Solo l'alunno certificato",
+      "Tutti gli alunni della classe",
+      "Solo il preside",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un modo per prevenire i comportamenti problema è:",
+    "answers": [
+      "Dare punizioni",
+      "Fornire un ambiente prevedibile e strutturato",
+      "Ignorare l'alunno",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La gestione dei conflitti nel gruppo classe deve avvenire attraverso:",
+    "answers": [
+      "La violenza",
+      "La mediazione e il dialogo",
+      "L'esclusione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Didattica Individualizzata si concentra su:",
+    "answers": [
+      "Lo stesso metodo per tutti",
+      "Tempi e modi di apprendimento diversi",
+      "Solo la lettura",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La co-progettazione tra docenti curricolari e di sostegno è essenziale per:",
+    "answers": [
+      "Le feste",
+      "Il successo del PEI e dell'inclusione",
+      "La pulizia",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il circle time è una metodologia che favorisce:",
+    "answers": [
+      "La competizione",
+      "La comunicazione, l'ascolto e la coesione",
+      "L'isolamento",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La flessibilità didattica è la capacità di:",
+    "answers": [
+      "Adattare gli obiettivi e le metodologie ai bisogni",
+      "Fare sempre la stessa cosa",
+      "Seguire un solo libro",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Un modello comunicativo efficace nel gruppo classe deve essere:",
+    "answers": [
+      "Solo verbale",
+      "Ascoltante ed empatico",
+      "Solo scritto",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Didattica Inclusiva si avvale della diversità degli studenti per:",
+    "answers": [
+      "Creare confusione",
+      "Promuovere l'arricchimento reciproco",
+      "Isolare",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Pedagogia Speciale pone l'accento sulla promozione delle:",
+    "answers": [
+      "Potenzialità e risorse del soggetto",
+      "Difficoltà e problemi",
+      "Voti bassi",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La token economy aiuta a gestire:",
+    "answers": [
+      "Il silenzio",
+      "I comportamenti nel gruppo classe",
+      "La competizione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Disposizione dei banchi può influenzare l'inclusione:",
+    "answers": [
+      "Poco",
+      "Molto (es. isole per il lavoro di gruppo)",
+      "Non conta affatto",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La partecipazione attiva degli studenti è promossa da:",
+    "answers": [
+      "Lezioni frontali",
+      "Metodologie attive (es. debate, role-playing)",
+      "Compiti a casa",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il curricolo inclusivo è un curricolo che è:",
+    "answers": [
+      "Fissato",
+      "Flessibile e aperto alle modifiche",
+      "Molto breve",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La mediazione dei conflitti insegna agli alunni a:",
+    "answers": [
+      "Litigare",
+      "Ascoltare le diverse prospettive",
+      "Urlare",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il ruolo del pari è essenziale per l'inclusione:",
+    "answers": [
+      "Fino al secondo mese di vita",
+      "In ogni fase della crescita",
+      "Solo dopo i 65 anni",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La gestione del tempo in classe deve essere:",
+    "answers": [
+      "Rigida",
+      "Flessibile e adattabile ai diversi ritmi",
+      "Sempre uguale",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'uso di ausili tecnologici è fondamentale per garantire:",
+    "answers": [
+      "La velocità dell'esecuzione delle lezioni",
+      "L'accessibilità e la partecipazione",
+      "La punizione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La progettazione universale per l'apprendimento (UDL) mira a:",
+    "answers": [
+      "Eliminare le barriere fin dall'inizio della progettazione",
+      "Creare barriere",
+      "Isolare",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il docente deve favorire una cultura della corresponsabilità, dove l'inclusione è sentita da:",
+    "answers": [
+      "Solo il sostegno",
+      "Tutti i membri della classe",
+      "Solo i genitori",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Un ambiente strutturato e inclusivo riduce l'ansia:",
+    "answers": [
+      "Solo degli adulti",
+      "Fornendo prevedibilità e chiarezza",
+      "Aumentando la confusione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La formazione del docente curricolare è essenziale per la:",
+    "answers": [
+      "Solo la promozione",
+      "Gestione inclusiva efficace",
+      "La pulizia",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Disabilità Intellettiva viene affrontata con didattica basata su:",
+    "answers": [
+      "Solo la teoria",
+      "L'esperienza e la concretezza",
+      "Solo l'astrazione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'obiettivo finale della Pedagogia Speciale è la piena:",
+    "answers": [
+      "Inclusione sociale e scolastica",
+      "Esclusione",
+      "Competizione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'approccio metacognitivo mira a sviluppare la consapevolezza su:",
+    "answers": [
+      "Solo i vestiti",
+      "Il proprio processo di apprendimento e pensiero",
+      "La corsa",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Didattica Speciale si occupa di:",
+    "answers": [
+      "Solo voti alti",
+      "Interventi personalizzati per i Bisogni Educativi Speciali (BES)",
+      "Solo sport",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Cooperative Learning (Apprendimento Cooperativo) implica il lavoro in:",
+    "answers": [
+      "Piccoli gruppi interdipendenti",
+      "sintonia con i genitori",
+      "Silenzio totale",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'autoregolazione dell'apprendimento è la capacità di:",
+    "answers": [
+      "Obbedire",
+      "Gestire e monitorare il proprio studio",
+      "Dimenticare",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Qual è un elemento essenziale del Cooperative Learning?",
+    "answers": [
+      "Competizione",
+      "L'interdipendenza positiva",
+      "Silenzio",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La metacognizione è spesso definita come:",
+    "answers": [
+      "Gioco",
+      "\"Pensare al proprio modo di pensare\"",
+      "Correre",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Lo scaffolding (impalcatura) in Didattica Speciale significa fornire un:",
+    "answers": [
+      "Muro",
+      "Supporto temporaneo in termini metaforici che viene tolto gradualmente",
+      "Regalo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I processi di controllo (metacognitivi) includono:",
+    "answers": [
+      "Mangiare",
+      "Pianificazione, monitoraggio e valutazione",
+      "Dormire",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il metodo di studio di un alunno fa parte della sua conoscenza:",
+    "answers": [
+      "Medica",
+      "Sportiva",
+      "Metacognitiva",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il Tutoraggio tra Pari (Peer Tutoring) è un modello di:",
+    "answers": [
+      "Ergonomia",
+      "Apprendimento cooperativo",
+      "Disegno",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'interdipendenza positiva nel gruppo cooperativo si crea facendo in modo che:",
+    "answers": [
+      "Ognuno lavori per sé",
+      "Il successo del singolo dipenda dal successo del gruppo",
+      "Solo uno lavori",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Didattica Speciale si basa sul principio di:",
+    "answers": [
+      "Esclusione",
+      "Individualizzazione e Personalizzazione",
+      "Rigore assoluto",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La riflessione sui propri errori è un'attività:",
+    "answers": [
+      "Fisica",
+      "Metacognitiva",
+      "Agonistica",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'eterogeneità del gruppo (diversità degli alunni) è un elemento:",
+    "answers": [
+      "Nocivo",
+      "Di ricchezza e risorsa per il Cooperative Learning",
+      "che impoverisce il dirigente scolastico",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il feedback nella didattica speciale deve essere:",
+    "answers": [
+      "Illusorio",
+      "Specifico e costruttivo",
+      "Solo negativo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La conoscenza strategica a livello metacognitivo significa sapere:",
+    "answers": [
+      "Come si salta",
+      "Quali strategie usare per un compito",
+      "Come si dorme",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La valutazione del Cooperative Learning deve includere:",
+    "answers": [
+      "La temperatura del gruppo",
+      "La valutazione del prodotto e del processo di gruppo",
+      "Solo la velocità",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'obiettivo dello sviluppo delle competenze sociali è fondamentale nel:",
+    "answers": [
+      "Lavoro solitario",
+      "Cooperative Learning",
+      "Disegno tecnico",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Didattica per competenze si concentra su cosa l'alunno sa:",
+    "answers": [
+      "Disegnare",
+      "Fare con la conoscenza",
+      "Copiare",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'apprendimento significativo si verifica quando la nuova informazione è collegata a:",
+    "answers": [
+      "le abilità motorie",
+      "Conoscenze preesistenti",
+      "Fatti a caso",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il ruolo del docente nel Cooperative Learning è quello di:",
+    "answers": [
+      "Fornire materiali, monitorare e intervenire come facilitatore",
+      "Stare sempre seduto",
+      "Fare tutti i compiti sostituendosi agli studenti",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'uso di mappe concettuali come strumento didattico favorisce l'abilità:",
+    "answers": [
+      "Metacognitiva di organizzazione",
+      "Sportiva",
+      "Di copiare",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'Individualizzazione si focalizza su:",
+    "answers": [
+      "Diversi percorsi di apprendimento",
+      "la disponibilità della palestra nell'istituto",
+      "Gli stessi tempi per tutti",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La Peer Education è una forma di apprendimento tra pari dove si insegna:",
+    "answers": [
+      "Solo al docente",
+      "Un argomento specifico ad altri",
+      "Ai genitori",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il problem solving cooperativo è la capacità di risolvere problemi:",
+    "answers": [
+      "Da soli",
+      "Lavorando insieme nel gruppo",
+      "Con l'aiuto esterno",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Didattica Inclusiva richiede un atteggiamento di:",
+    "answers": [
+      "Esclusione",
+      "Flessibilità e adattamento",
+      "Rigidità",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'autovalutazione dei processi è un momento di:",
+    "answers": [
+      "Giudizio negativo",
+      "Riflessione metacognitiva sul proprio lavoro",
+      "Competizione",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La personalizzazione didattica si focalizza sui:",
+    "answers": [
+      "Giochi",
+      "Bisogni specifici e lo stile di apprendimento del singolo",
+      "Voti",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La mediazione didattica è l'azione di usare:",
+    "answers": [
+      "Solo la parola",
+      "Strumenti che facilitano il passaggio della conoscenza",
+      "Solo i voti",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Cooperative Learning può migliorare l'autostima grazie a:",
+    "answers": [
+      "Stare in silenzio",
+      "Riconoscimento del proprio contributo nel gruppo",
+      "Ottenere voti bassi",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La disabilità visiva si riferisce ad una limitazione in quale senso?",
+    "answers": [
+      "Tatto",
+      "Udito",
+      "Vista",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quale strumento è essenziale per la lettura e scrittura degli studenti non vedenti?",
+    "answers": [
+      "Automobile",
+      "Cuffie",
+      "Braille",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Per comunicare con una persona con disabilità uditiva, è preferibile usare:",
+    "answers": [
+      "La Lingua dei Segni (LIS)",
+      "La lettura di un libro",
+      "Il disegno su tela",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'ipoacusia è un problema legato all'apparato:",
+    "answers": [
+      "Digestivo",
+      "Respiratorio",
+      "Uditivo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il tiflologo è un esperto che si occupa di disabilità legate alla:",
+    "answers": [
+      "Dieta",
+      "Storia medievale",
+      "Vista",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Un ausilio che amplifica i suoni per chi ha problemi di udito è:",
+    "answers": [
+      "Lente d'ingrandimento",
+      "Stampella",
+      "Apparecchio acustico",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Per un bambino con disabilità visiva, è importante che i materiali didattici siano:",
+    "answers": [
+      "Pieni di colla",
+      "Graziosi",
+      "Tattili e in rilievo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Cosa si intende per \"ipovisione\"?",
+    "answers": [
+      "La balbuzie",
+      "Sordità profonda",
+      "Grave riduzione della vista non eliminabile",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il metodo comunicativo basato sull'alfabeto Braille è composto da:",
+    "answers": [
+      "Simboli colorati",
+      "Immagini grafiche",
+      "Punti in rilievo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il Braille serve per leggere se si ha una disabilità legata a quale senso?",
+    "answers": [
+      "Olfatto",
+      "Udito",
+      "Vista",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quale oggetto usano i non vedenti per camminare e orientarsi in strada?",
+    "answers": [
+      "Un ombrello",
+      "Una valigia",
+      "Il bastone bianco",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Cosa si usa per amplificare i suoni e aiutare chi sente poco?",
+    "answers": [
+      "Occhiali",
+      "Orologio",
+      "Apparecchio acustico",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La LIS è la sigla della:",
+    "answers": [
+      "Lingua Italiana Sportiva",
+      "Lezione Immersiva Solitaria",
+      "Lingua Italiana dei Segni",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il docente di sostegno lavora in classe con:",
+    "answers": [
+      "Solo studenti stranieri",
+      "Solo studenti bravi",
+      "Studenti con disabilità",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Se uno studente ha una ipovisione, i caratteri dei libri devono essere:",
+    "answers": [
+      "Piccolissimi",
+      "Distorti",
+      "Molto grandi (Macrostamp)",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Cosa significa la parola ipoacusia?",
+    "answers": [
+      "Non camminare bene",
+      "Non toccare bene",
+      "Non sentire bene in termini uditivi",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quale organo è coinvolto nella disabilità visiva?",
+    "answers": [
+      "Orecchio",
+      "Pelle",
+      "Occhio",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il documento che pianifica l'insegnamento per lo studente con disabilità si chiama:",
+    "answers": [
+      "lim",
+      "Quaderno degli appunti",
+      "PEI (Piano Educativo Individualizzato)",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La labiolettura è la capacità di capire le parole osservando:",
+    "answers": [
+      "Le mani",
+      "I piedi",
+      "Le labbra che si muovono",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La didattica speciale serve a rendere la scuola più:",
+    "answers": [
+      "Vecchia",
+      "Difficile",
+      "Inclusiva (per tutti)",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Le mappe tattili servono ai non vedenti per:",
+    "answers": [
+      "Sorridere",
+      "Dormire",
+      "Poter esplorare uno spazio",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Per parlare con una persona sorda, è importante NON:",
+    "answers": [
+      "Volare",
+      "Scherzare",
+      "Coprirsi la bocca",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il metodo Braille si basa su quanti punti in rilievo per ogni carattere?",
+    "answers": [
+      "2000",
+      "0",
+      "6",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Per un bambino con disabilità visiva, i libri possono essere sostituiti con:",
+    "answers": [
+      "Fogli bianchi",
+      "Penne rosse",
+      "Audiolibri (registrazioni vocali)",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Se una persona ha problemi di udito, si consiglia di parlargli ad una distanza:",
+    "answers": [
+      "Molto lontana",
+      "chilometrica",
+      "Normale, ma con buona luce e con le labbra visibili",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Cosa sono i sussidi tiflodidattici?",
+    "answers": [
+      "Materiali per sport",
+      "Materiali per bisbigliare",
+      "Materiali per non vedenti",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'Impianto Cocleare è un piccolo dispositivo che si usa per migliorare:",
+    "answers": [
+      "La velocità nella corsa",
+      "L'olfatto",
+      "L'udito",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'obiettivo principale della didattica speciale è garantire l'inclusione e:",
+    "answers": [
+      "L'isolamento",
+      "L'esclusione",
+      "Il successo formativo",
+      "Tutte le precedenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Un bambino cieco usa le mani per:",
+    "answers": [
+      "Correre",
+      "Mangiare",
+      "Conoscere gli oggetti",
+      "Tutte le precedenti."
+    ],
+    "correctIndex": 2
+  }
+]
