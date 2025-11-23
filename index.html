@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <title>Test PEGASO - Autovalutazione</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    * {
+      box-sizing: border-box;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      background: #f3f4f6;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 24px auto;
+      background: #ffffff;
+      border-radius: 16px;
+      padding: 24px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+    }
+
+    h1 {
+      margin-top: 0;
+      font-size: 1.7rem;
+      text-align: center;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    #config {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+      justify-content: center;
+      margin-top: 12px;
+    }
+
+    #config label {
+      font-size: 0.95rem;
+    }
+
+    #config input[type="number"] {
+      width: 80px;
+      padding: 6px 8px;
+    }
+
+    button {
+      border: none;
+      border-radius: 999px;
+      padding: 8px 16px;
+      font-size: 0.95rem;
+      cursor: pointer;
+      background: #2563eb;
+      color: white;
+      transition: transform 0.05s ease, box-shadow 0.05s ease, background 0.2s;
+      box-shadow: 0 3px 10px rgba(37,99,235,0.3);
+    }
+
+    button:disabled {
+      background: #9ca3af;
+      box-shadow: none;
+      cursor: not-allowed;
+      transform: none;
+    }
+
+    button:hover:not(:disabled) {
+      background: #1d4ed8;
+      transform: translateY(-1px);
+      box-shadow: 0 5px 15px rgba(37,99,235,0.4);
+    }
+
+    #testArea {
+      margin-top: 20px;
+    }
+
+    #headerBar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    #timer {
+      font-weight: 700;
+      font-size: 1.2rem;
+      padding: 6px 14px;
+      border-radius: 999px;
+      background: #fee2e2;
+      color: #b91c1c;
+    }
+
+    #progress {
+      font-size: 0.95rem;
+      background: #eff6ff;
+      padding: 6px 12px;
+      border-radius: 999px;
+      color: #1d4ed8;
+    }
+
+    #questionText {
+      font-size: 1.05rem;
+      font-weight: 600;
+      margin-bottom: 12px;
+    }
+
+    #answersForm {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      margin-bottom: 16px;
+    }
+
+    .answerOption {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 10px;
+      border-radius: 10px;
+      border: 1px solid #e5e7eb;
+      cursor: pointer;
+      transition: background 0.15s, border-color 0.15s;
+    }
+
+    .answerOption:hover {
+      background: #f9fafb;
+      border-color: #d1d5db;
+    }
+
+    .answerOption input[type="radio"] {
+      transform: scale(1.1);
+    }
+
+    .nav {
+      display: flex;
+      justify-content: space-between;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .nav > * {
+      flex: 1 1 auto;
+      text-align: center;
+    }
+
+    #finishBtn {
+      background: #16a34a;
+      box-shadow: 0 3px 10px rgba(22,163,74,0.3);
+    }
+
+    #finishBtn:hover:not(:disabled) {
+      background: #15803d;
+      box-shadow: 0 5px 15px rgba(22,163,74,0.4);
+    }
+
+    #resultArea {
+      margin-top: 20px;
+      text-align: center;
+    }
+
+    #resultArea h2 {
+      margin-top: 0;
+    }
+
+    #resultArea p {
+      margin: 4px 0;
+      font-size: 0.98rem;
+    }
+
+    #details {
+      margin-top: 16px;
+      text-align: left;
+      font-size: 0.9rem;
+    }
+
+    #details summary {
+      cursor: pointer;
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+
+    .wrong-question {
+      margin-bottom: 10px;
+      padding-bottom: 8px;
+      border-bottom: 1px solid #e5e7eb;
+      text-align: left;
+    }
+
+    .wrong-question strong {
+      display: block;
+    }
+
+    .correct {
+      color: #16a34a;
+    }
+
+    .incorrect {
+      color: #b91c1c;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Test PEGASO - Autovalutazione</h1>
+
+    <!-- Configurazione iniziale -->
+    <div id="config">
+      <label>
+        Numero di domande (max 300):
+        <input type="number" id="numQuestions" value="300" min="1">
+      </label>
+      <button id="startBtn">Inizia il test (30 sec/domanda)</button>
+    </div>
+
+    <!-- Area del test -->
+    <div id="testArea" class="hidden">
+      <div id="headerBar">
+        <div id="timer">00:00</div>
+        <div id="progress">
+          Domanda <span id="currentIndex">1</span> /
+          <span id="totalQuestions">0</span>
+        </div>
+      </div>
+
+      <div id="questionText"></div>
+
+      <form id="answersForm"></form>
+
+      <div class="nav">
+        <button type="button" id="prevBtn">◀ Indietro</button>
+        <button type="button" id="nextBtn">Avanti ▶</button>
+        <button type="button" id="finishBtn">Termina</button>
+      </div>
+    </div>
+
+    <!-- Risultati -->
+    <div id="resultArea" class="hidden"></div>
+  </div>
+
+  <script>
+    let allQuestions = [];
+    let quizQuestions = [];
+    let currentIndex = 0;
+    let userAnswers = [];
+    let timerId = null;
+    // tempo rimanente in secondi, calcolato in base al numero di domande
+    let remainingSeconds = 0;
+
+    async function loadQuestions() {
+      const response = await fetch("questions.json");
+      if (!response.ok) {
+        throw new Error("Impossibile caricare questions.json");
+      }
+      allQuestions = await response.json();
+    }
+
+    function shuffle(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+    }
+
+    function updateTimerDisplay() {
+      const minutes = String(Math.floor(remainingSeconds / 60)).padStart(2, "0");
+      const seconds = String(remainingSeconds % 60).padStart(2, "0");
+      document.getElementById("timer").textContent = `${minutes}:${seconds}`;
+    }
+
+    function startTimer() {
+      updateTimerDisplay();
+      timerId = setInterval(() => {
+        remainingSeconds--;
+        updateTimerDisplay();
+
+        if (remainingSeconds <= 0) {
+          clearInterval(timerId);
+          timerId = null;
+          alert("Tempo scaduto!");
+          endQuiz();
+        }
+      }, 1000);
+    }
+
+    function showQuestion(index) {
+      const questionObj = quizQuestions[index];
+
+      document.getElementById("currentIndex").textContent = index + 1;
+      document.getElementById("totalQuestions").textContent = quizQuestions.length;
+      document.getElementById("questionText").textContent = questionObj.question;
+
+      const form = document.getElementById("answersForm");
+      form.innerHTML = "";
+
+      questionObj.answers.forEach((answerText, i) => {
+        const id = `ans_${index}_${i}`;
+        const label = document.createElement("label");
+        label.className = "answerOption";
+
+        const radio = document.createElement("input");
+        radio.type = "radio";
+        radio.name = "answer";
+        radio.id = id;
+        radio.value = i;
+        radio.checked = userAnswers[index] === i;
+
+        radio.addEventListener("change", () => {
+          userAnswers[index] = i;
+        });
+
+        const span = document.createElement("span");
+        span.textContent = answerText;
+
+        label.appendChild(radio);
+        label.appendChild(span);
+        form.appendChild(label);
+      });
+
+      document.getElementById("prevBtn").disabled = index === 0;
+      document.getElementById("nextBtn").disabled = index === quizQuestions.length - 1;
+    }
+
+    function endQuiz() {
+      if (timerId !== null) {
+        clearInterval(timerId);
+        timerId = null;
+      }
+
+      document.getElementById("testArea").classList.add("hidden");
+      const resultArea = document.getElementById("resultArea");
+      resultArea.classList.remove("hidden");
+
+      let correct = 0;
+      let unanswered = 0;
+      const total = quizQuestions.length;
+      const wrongDetails = [];
+
+      quizQuestions.forEach((q, i) => {
+        if (userAnswers[i] == null) {
+          unanswered++;
+        } else if (userAnswers[i] === q.correctIndex) {
+          correct++;
+        } else {
+          const userIdx = userAnswers[i];
+          wrongDetails.push({
+            question: q.question,
+            yourAnswer: q.answers[userIdx],
+            correctAnswer: q.answers[q.correctIndex]
+          });
+        }
+      });
+
+      const wrong = total - correct - unanswered;
+      const percent = total ? Math.round((correct / total) * 100) : 0;
+
+      let detailsHtml = "";
+      if (wrongDetails.length > 0) {
+        detailsHtml += `<details id="details"><summary>Vedi le domande sbagliate (${wrongDetails.length})</summary>`;
+        wrongDetails.forEach((w, idx) => {
+          detailsHtml += `
+            <div class="wrong-question">
+              <strong>${idx + 1}. ${w.question}</strong>
+              <div class="incorrect">Tua risposta: ${w.yourAnswer}</div>
+              <div class="correct">Corretta: ${w.correctAnswer}</div>
+            </div>
+          `;
+        });
+        detailsHtml += `</details>`;
+      }
+
+      resultArea.innerHTML = `
+        <h2>Risultato</h2>
+        <p>Domande totali: <strong>${total}</strong></p>
+        <p>Corrette: <strong>${correct}</strong></p>
+        <p>Sbagliate: <strong>${wrong}</strong></p>
+        <p>Non risposte: <strong>${unanswered}</strong></p>
+        <p>Punteggio: <strong>${percent}%</strong></p>
+        ${detailsHtml}
+        <p style="margin-top:16px;">
+          <button id="retryBtn">Rifai il test</button>
+        </p>
+      `;
+
+      const retryBtn = document.getElementById("retryBtn");
+      retryBtn.addEventListener("click", () => {
+        document.getElementById("resultArea").classList.add("hidden");
+        document.getElementById("config").classList.remove("hidden");
+
+        const startBtn = document.getElementById("startBtn");
+        startBtn.disabled = false;
+
+        // reset timer a 00:00
+        remainingSeconds = 0;
+        updateTimerDisplay();
+      });
+    }
+
+    document.getElementById("startBtn").addEventListener("click", async () => {
+      const startBtn = document.getElementById("startBtn");
+      startBtn.disabled = true;
+
+      try {
+        if (allQuestions.length === 0) {
+          await loadQuestions();
+        }
+
+        let requested = parseInt(document.getElementById("numQuestions").value, 10);
+        if (isNaN(requested) || requested <= 0) {
+          requested = 300;
+        }
+        if (requested > 300) {
+          requested = 300;
+        }
+
+        quizQuestions = [...allQuestions];
+        shuffle(quizQuestions);
+
+        if (requested < quizQuestions.length) {
+          quizQuestions = quizQuestions.slice(0, requested);
+        }
+
+        userAnswers = new Array(quizQuestions.length).fill(null);
+        currentIndex = 0;
+
+        // 30 secondi per domanda
+        remainingSeconds = quizQuestions.length * 30;
+        updateTimerDisplay();
+
+        document.getElementById("config").classList.add("hidden");
+        document.getElementById("testArea").classList.remove("hidden");
+        document.getElementById("resultArea").classList.add("hidden");
+
+        showQuestion(currentIndex);
+        startTimer();
+      } catch (err) {
+        alert("Errore nel caricamento delle domande: " + err.message);
+        startBtn.disabled = false;
+      }
+    });
+
+    document.getElementById("prevBtn").addEventListener("click", () => {
+      if (currentIndex > 0) {
+        currentIndex--;
+        showQuestion(currentIndex);
+      }
+    });
+
+    document.getElementById("nextBtn").addEventListener("click", () => {
+      if (currentIndex < quizQuestions.length - 1) {
+        currentIndex++;
+        showQuestion(currentIndex);
+      }
+    });
+
+    document.getElementById("finishBtn").addEventListener("click", () => {
+      if (confirm("Vuoi davvero terminare il test?")) {
+        endQuiz();
+      }
+    });
+  </script>
+</body>
+</html>
